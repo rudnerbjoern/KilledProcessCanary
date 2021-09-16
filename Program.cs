@@ -307,7 +307,7 @@ namespace SWOLLENRIVER
                 FireCanary.Fire();
 
                 // Hibernate the host
-                Power.SetSuspendState(true, true, true);
+                //Power.SetSuspendState(true, true, true);
             }
 
         }
